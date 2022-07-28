@@ -1,0 +1,19 @@
+{
+  "name": "multi-player-pong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx node server/server.js",
+    "start-node": "npx node server/server.js",
+    "start-nodemon": "npx nodemon server/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19",
+    "socket.io": "^2.5.0"
+  }
+}
