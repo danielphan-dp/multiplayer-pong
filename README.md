@@ -12,7 +12,7 @@
 
 ## About The Project
 
-An implementation of the Pong game with real-time features using the WebSocket protocol. Try it out in just a few simple installation commands!
+An implementation of the Pong game with real-time features using the WebSocket protocol (instead of the traditional polling approach). Try it out in just a few simple installation commands!
 
 ### Core Technologies
 
