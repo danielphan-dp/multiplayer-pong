@@ -12,7 +12,7 @@
 
 ## About The Project
 
-A real-time web application demonstrating
+An implementation of the Pong game with real-time features using the WebSocket protocol. Try it out in just a few simple installation commands!
 
 ### Core Technologies
 
@@ -122,4 +122,4 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 ## Acknowledgments
 
-This project was originally inspired by the legacy game Pong, Odziemkowski's version of multi-player Pong, and Facebook's Redux statement management library.
+This project was originally inspired by the legacy game Pong, Odziemkowski's version of multi-player Pong, and Facebook's Redux state management library.
