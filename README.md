@@ -123,3 +123,17 @@ If you have a suggestion that would make this better, please fork the repo and c
 ## Acknowledgments
 
 This project was originally inspired by the legacy game Pong, Odziemkowski's version of multi-player Pong, and Facebook's Redux state management library.
+
+External resources and readings.
+
+- https://socket.io/docs/v4/
+
+- https://expressjs.com/en/4x/api.html
+
+- https://nodejs.org/en/about/
+
+- https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API
+
+- https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Drawing_graphics
+
+- https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/deployment
